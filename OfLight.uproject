@@ -10,14 +10,12 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/be623df092c442609c20a840630031fb"
 		},
 		{
-			"Name": "VaFogOfWar",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cf7668a20dde4ef6937eaab417bf55cf"
+			"Name": "AdvancedSessions",
+			"Enabled": true
 		},
 		{
-			"Name": "VoxelFree",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
 		}
 	]
 }
